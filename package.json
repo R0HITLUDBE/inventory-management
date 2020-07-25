@@ -1,0 +1,27 @@
+{
+  "name": "inventorymanagement",
+  "version": "1.0.0",
+  "description": "inventory management backend part",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/R0HITLUDBE"
+  },
+  "author": "rohit ludbe",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^5.2.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.25"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
