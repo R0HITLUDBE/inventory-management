@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://rohit123:rohit123@test-cluster.bwgto.mongodb.net/test-cluster?retryWrites=true&w=majority",
+  "mongoURI": "MONODB_URI",
   "jwtSecret": "rl_myJwtSecret"
 }
